@@ -1,0 +1,14 @@
+# Ignorar archivos de pruebas
+test/**/*.e2e-spec.ts
+test/**/*.spec.ts
+
+# Ignorar archivos compilados
+dist/**/*
+build/**/*
+
+# Ignorar dependencias
+node_modules/**/*
+
+# Ignorar archivos de configuración
+*.config.js
+*.config.mjs
